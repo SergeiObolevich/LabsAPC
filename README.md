@@ -1,1 +1,1 @@
-Architecture of a personal computer labs on assembly/c/c++ (4th term)
+Architecture of a personal computer labs on Assembly / C / C++ (4th term)
